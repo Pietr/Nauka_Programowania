@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1472139314 source:c:\users\admin\documents\code blocks\losowanie\lotto\main.cpp
-	<iostream>
-	<time.h>
-	<cstdlib>
-	<windows.h>
-
